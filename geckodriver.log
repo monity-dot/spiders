@@ -1,0 +1,34 @@
+1623582453183	geckodriver	INFO	Listening on 127.0.0.1:58658
+1623582456185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zero\\AppData\\Local\\Temp\\rust_mozprofilefQU96h"
+1623582457194	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zero\\AppData\\Local\\Temp\\rust_mozprofilefQU96h\\search.json.mozlz4", (void 0)))
+1623582462166	Marionette	INFO	Listening on port 58669
+1623582462445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623582465582	Marionette	INFO	Stopped listening on port 58669
+1623582573121	geckodriver	INFO	Listening on 127.0.0.1:58879
+1623582576125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zero\\AppData\\Local\\Temp\\rust_mozprofile9CCHZV"
+1623582577407	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zero\\AppData\\Local\\Temp\\rust_mozprofile9CCHZV\\search.json.mozlz4", (void 0)))
+1623582581449	Marionette	INFO	Listening on port 58890
+1623582581892	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/BackgroundPageThumbs.jsm, line 718: TypeError: captureCallback is not a function
+1623582592473	Marionette	INFO	Stopped listening on port 58890
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623673336294	geckodriver	INFO	Listening on 127.0.0.1:62444
+1623673339320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zero\\AppData\\Local\\Temp\\rust_mozprofileGyKvYw"
+1623673340472	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zero\\AppData\\Local\\Temp\\rust_mozprofileGyKvYw\\search.json.mozlz4", (void 0)))
+1623673345547	Marionette	INFO	Listening on port 62458
+1623673345685	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623673381063	Marionette	INFO	Stopped listening on port 62458
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
